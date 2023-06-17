@@ -1,0 +1,5 @@
+﻿  Reading Qt configuration (D:/Qt/Qt5.12.0/5.12.0/msvc2017_64/bin/qmake)
+  main_window.cpp
+D:\Visual Studio 2019\StoreGUI\StoreGUI\main_window.cpp(45): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+D:\Visual Studio 2019\StoreGUI\StoreGUI\main_window.cpp(178): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+  StoreGUI.vcxproj -> D:\Visual Studio 2019\StoreGUI\_build\x64\Debug\StoreGUI.exe

@@ -1,0 +1,7 @@
+﻿  commands.cpp
+D:\Visual Studio 2019\ConsoleAppPart1AH\commands.cpp(107,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio 2019\ConsoleAppPart1AH\commands.cpp(181,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  person.cpp
+  Generating Code...
+  ConsoleAppPart1AH.vcxproj -> D:\Visual Studio 2019\StoreGUI\x64\Debug\ConsoleAppPart1AH.exe
